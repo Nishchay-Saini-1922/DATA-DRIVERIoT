@@ -1,0 +1,9 @@
+# Arduino Libraries for Data Driver v1.0 Alpha
+# Install via Arduino IDE Library Manager or platformio
+
+LiquidCrystal_I2C>=1.1.1
+MFRC522>=1.4.8
+WiFi (built-in)
+EEPROM (built-in)
+SPI (built-in)
+ESP32

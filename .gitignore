@@ -1,0 +1,35 @@
+# Arduino IDE
+build/
+dist/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+*.pyc
+__pycache__/
+.vscode/
+.clang_format
+
+# IDE
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode
+node_modules/
+
+# Build artifacts
+*.elf
+*.bin
+*.hex
+
+# User-specific files
+.sublime-project
+.sublime-workspace
